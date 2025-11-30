@@ -1,0 +1,96 @@
+body {
+    background-image: url(../imgs/img_02.jpg);
+
+    background-size: cover;
+
+    background-repeat: no-repeat;
+
+    background-position: center;
+
+}
+table {
+    margin: auto;
+}
+
+.carta1, .carta2, .carta3, .carta4, .carta5, .carta6, .carta7, .carta8, .carta9, 
+.carta10, .carta11, .carta12, .carta13, .carta14, .carta15, .carta16, .carta17, .carta18 {
+    height: 122px;
+    width: 122px;
+    background-image: url(../imgs/img_01.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    cursor: pointer;
+}
+
+.carta1:active {
+    background-image: url(../imgs/img_03.jpg);
+}
+
+.carta2:active {
+    background-image: url(../imgs/img_04.jpg);
+}
+
+.carta3:active {
+    background-image: url(../imgs/img_05.jpg);
+}
+
+.carta4:active {
+    background-image: url(../imgs/img_06.jpg);
+}
+
+.carta5:active {
+    background-image: url(../imgs/img_07.jpg);
+}
+
+.carta6:active {
+    background-image: url(../imgs/img_08.jpg);
+}
+
+.carta7:active {
+    background-image: url(../imgs/img_09.jpg);
+}
+
+.carta8:active {
+    background-image: url(../imgs/img_10.jpg); 
+}
+
+.carta9:active {
+    background-image: url(../imgs/img_11.jpg); 
+}
+
+.carta10:active {
+    background-image: url(../imgs/img_12.jpg); 
+}
+
+.carta11:active {
+    background-image: url(../imgs/img_13.jpg); 
+}
+
+.carta12:active {
+    background-image: url(../imgs/img_14.jpg); 
+}
+
+.carta13:active {
+    background-image: url(../imgs/img_15.jpg);
+}
+
+.carta14:active {
+    background-image: url(../imgs/img_16.jpg);
+}
+
+.carta15:active {
+    background-image: url(../imgs/img_17.jpg); 
+}
+
+.carta16:active {
+    background-image: url(../imgs/img_18.jpg); 
+}
+
+.carta17:active {
+    background-image: url(../imgs/img_19.jpg); 
+}
+
+.carta18:active {
+    background-image: url(../imgs/img_20.jpg); 
+}
